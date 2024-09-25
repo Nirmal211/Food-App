@@ -1,0 +1,14 @@
+{
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "This is my food ordering application",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nirmal Pandey",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
